@@ -1,1 +1,1 @@
-Sending encrypted text file from client to server usign various cryptographic encryption algorithms.
+Sending encrypted text file from client usign various cryptographic encryption algorithms and decrypting at server side.
